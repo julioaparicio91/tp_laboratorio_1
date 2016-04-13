@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1460512361 source:c:\users\usuario\desktop\programacion1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"milibreria.h"
+
+1460512361 c:\users\usuario\desktop\programacion1\milibreria.h
+	<stdio.h>
+	<stdlib.h>
+
